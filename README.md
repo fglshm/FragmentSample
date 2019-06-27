@@ -1,3 +1,3 @@
 # FragmentSample
 
-![result](https://github.com/fglshm/FragmentSample/blob/media/20190627_201820.gif)
+![demo](https://raw.github.com/wiki/fglshm/FragmentSample/images/20190627_201820.gif)
