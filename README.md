@@ -1,3 +1,3 @@
 # FragmentSample
 
-![] (fragment_sample.gif)
+![](fragment_sample.gif)
